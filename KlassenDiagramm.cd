@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EuroTrans.Herz">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iBAAABEAAIAABQAAAAAAEIAAAAAIABAAAIAAEAAGAAA=</HashCode>
+      <FileName>Herz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EuroTrans.Empfaenger">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAgACAQAAAAAAACAEAAAEAAAAAAAEEgAABgA=</HashCode>
+      <FileName>Empfaenger.cs</FileName>
+      <NewMemberFileName>Spender.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EuroTrans.Transporter">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAIQEAAAAAAAAAAAAAAUAAAAAAAEAAAAgwA=</HashCode>
+      <FileName>Transporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EuroTrans.Operation">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAgAAAAIAACAAAAAAKAAAAAJAAAAAAAAEAAAA=</HashCode>
+      <FileName>Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EuroTrans.Arzt">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAgAAAAAAAAACICAAAAAEAAQgAAAEAAAAAAA=</HashCode>
+      <FileName>Arzt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EuroTrans.Spender">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAgACgQCAAAAAACAEAAAEAAAAAAAEEgAABgA=</HashCode>
+      <FileName>Spender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
