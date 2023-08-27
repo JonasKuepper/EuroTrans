@@ -20,9 +20,6 @@ internal class Program
 
         t.printListe();
         Console.WriteLine(spender.getGroeße());
-        
-
-        //Eingabe();
     }
 
     /*
