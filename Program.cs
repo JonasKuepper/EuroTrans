@@ -8,7 +8,7 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        /*
+        
         Spender spender = new Spender(1,"Küpper","Jonas",20,184.0,60.0,"A-",DateTime.Now);
         
         Herz h = new Herz(spender,90,"120/80",spender.getAlter(),true, true);
@@ -20,11 +20,12 @@ internal class Program
 
         t.printListe();
         Console.WriteLine(spender.getGroeße());
-        */
+        
 
-        Eingabe();
+        //Eingabe();
     }
 
+    /*
     private static void Eingabe()
     {
         input = Console.ReadLine();
@@ -38,4 +39,5 @@ internal class Program
 
         }
     }
+    */
 }
